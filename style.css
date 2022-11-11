@@ -1,0 +1,15 @@
+.cell {
+    display: inline-block;
+    padding: 1px 1px 1px 1px;
+    width: 5px;
+    height: 5px;
+    border: 1px 1px;
+    border-color: #eaeaea;
+    border-style: solid ;
+    color: white;
+    background-color: black;
+}
+
+.cellLine{
+  display:flex;
+}
